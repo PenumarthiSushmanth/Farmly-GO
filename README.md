@@ -7,6 +7,4 @@ FarmlyGO is an user-friendly mobile application where the farmers can directly s
 <img src="https://user-images.githubusercontent.com/64032171/180946314-da2318db-21c2-497c-9f6c-2ec567e80b68.jpeg" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/64032171/180946666-313008a3-c32a-454d-9ce0-06d353e3a06d.jpeg" width="200" height="400">
 <img src="https://user-images.githubusercontent.com/64032171/180946794-d30aaeed-9f55-4a30-bc1d-84c5ac4a694f.jpeg" width="200" height="400">
-<img src="https://user-images.githubusercontent.com/64032171/180947527-a599dbb7-a6bd-44f0-8400-be580c5a5b12.jpeg" width="200" height="400">
-
 </div>
